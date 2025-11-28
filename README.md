@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Veera Chiranjeevi
 
-<!--
-**veerachiranjeevi/veerachiranjeevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year Electronics & Communication Engineering (ECE) Student  
+💻 Passionate about Software Development & Web Technologies  
+🚀 Learning modern skills to build real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- C++ Programming
+- Web Development (HTML, CSS, JS)
+- SQL & Full-Stack Technologies (Upcoming)
+- Data Analytics with Python (Upcoming)
+
+---
+
+### 🛠️ Skills (in progress)
+- Programming: C++, Python (beginner)
+- Web: HTML, CSS, JS
+- Tools: Git & GitHub
+- Databases: SQL (Upcoming)
+
+---
+
+### 🎯 My Goals for 2026
+- Build 5+ software projects
+- Internship in Web / Software Development
+- Strong portfolio with GitHub + LinkedIn presence
+
+---
+
+### 📌 Projects Roadmap (Coming Soon 🚧)
+- Portfolio Website
+- Full-Stack App
+- Data Dashboard using Python
+- IoT / ECE based mini project
+
+Stay tuned for updates ✨
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: *(To be added)*
+- 🔗 LinkedIn: *(To be created soon)*
+
+---
+
+> 💡 “Every expert was once a beginner — I am learning every day.”  
